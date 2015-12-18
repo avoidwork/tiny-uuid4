@@ -1,6 +1,6 @@
 {
   "name": "tiny-uuid4",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny UUID version 4 for Client and Server",
   "main": "lib/tiny-uuid4.js",
   "scripts": {
